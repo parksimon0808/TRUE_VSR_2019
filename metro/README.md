@@ -22,8 +22,8 @@ Data Preprocessing
 3. Open data/result.csv and delete the second column. The current values are the accuracy of the model on each station from a test run on a local environment.
 
 Training
-4-1. Open Training - One Station.ipynb and run the code if you want to train and evaluate the model on the data from one specific station.
-4-2. Open Training - All Stations.ipynb and run the code if you want to train the model on the data from each station. This file automatically updates result.csv.
+4. Open Training - One Station.ipynb and run the code if you want to train and evaluate the model on the data from one specific station.
+5. Open Training - All Stations.ipynb and run the code if you want to train the model on the data from each station. This file automatically updates result.csv.
 
 ## Analyzing the result
 
